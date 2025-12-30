@@ -67,9 +67,9 @@ class AvailableJobs extends Component {
   loader = () => {
     return (
       <Loader
-        className="loader-style"
-        type="Oval"
-        color="#4f46e5"
+        className='loader-style'
+        type='Oval'
+        color='#4f46e5'
         height={60}
         width={60}
       />
@@ -81,7 +81,7 @@ class AvailableJobs extends Component {
     console.log(data)
     return (
       <>
-        <div className="cont-jobs">
+        <div className='cont-jobs'>
           {data.map(eachItem => (
             <Jobsitem eachItem={eachItem} />
           ))}
