@@ -1,0 +1,18 @@
+.name-skillimage {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.name-cont {
+  font-size: 20px;
+  font-weight: 400;
+  margin-left: 2px;
+}
+
+.skill-icon {
+  height: 100px;
+  width: 100px;
+  padding: 10px;
+}

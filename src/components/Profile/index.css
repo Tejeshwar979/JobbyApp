@@ -1,0 +1,16 @@
+.profile-cont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  display: inline-block;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  width: 350px;
+}
+
+.loader-profile-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+}

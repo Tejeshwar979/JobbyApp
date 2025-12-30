@@ -1,0 +1,37 @@
+.Home-bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+  height: 100vh;
+}
+
+.logout-btn {
+  background-color: #4f46e5;
+  color: white;
+  height: 30px;
+  width: 90px;
+  border-radius: 5px;
+  border-color: none;
+  border-style: none;
+}
+
+.heading {
+  color: white;
+}
+
+.paragraph {
+  color: white;
+}
+
+.main-home-image {
+  width: 52%;
+}
+
+.main-home-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 800px;
+  margin: 100px;
+  background-color: #121212;
+}

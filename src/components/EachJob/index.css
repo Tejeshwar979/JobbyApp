@@ -1,0 +1,134 @@
+.rating-star {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.loacation-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 10px;
+}
+
+.employment_type-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 10px;
+}
+
+.image-title-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-grow: 1;
+  width: 200%;
+}
+
+.title-rating-star-cont {
+  margin-left: 10px;
+}
+
+.location-employement-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.location-employement-package-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.package-cont {
+  margin-right: 20px;
+}
+
+.jobs-cont {
+  margin: 50px;
+  color: white;
+  background-color: #272727;
+  border-radius: 10px;
+  padding: 20px;
+  overflow-x: hidden;
+}
+
+.jobs-description {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.star-icon-style {
+  color: yellow;
+  margin: 2px;
+}
+
+.link-cont {
+  text-decoration: none;
+}
+
+.description-anchor-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.skills-cont {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.skills-name {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+.description-image-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.descrition-name {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.similar-jobs-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.main-eachjob-cont {
+  background-color: black;
+}
+
+.loader-eachJob-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.similar-jobs-name {
+  font-size: 30px;
+  color: white;
+  margin-left: 45px;
+}

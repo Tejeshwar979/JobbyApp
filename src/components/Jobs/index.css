@@ -1,0 +1,37 @@
+.body-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-color: black;
+}
+
+.search-input-style {
+  height: 40px;
+  width: 300px;
+  border-radius: 4px;
+  margin: 30px;
+  padding: 10px;
+}
+
+.input-icon {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-style {
+  margin-top: 15px;
+  margin-left: 0px;
+  padding: 2px;
+  color: #ffffff;
+  height: 35px;
+  width: 35px;
+  margin-bottom: 10px;
+  margin-right: 0px;
+}
+
+.profile-sort-cont {
+  padding: 20px;
+}
